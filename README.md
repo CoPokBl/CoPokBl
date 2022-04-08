@@ -1,5 +1,3 @@
-GitHub repo file count badge	/github/directory-file-count/:user/:repo
-
 ### Hello
 I am CoPokBl
 
